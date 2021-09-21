@@ -8,4 +8,9 @@ Willkommen! Hier einmal eine kurze Anleitung wie das Programm gestartet wird:
 5. Sollten hier Fehler auftreten, wie z.B. _module not found_, sind wahrscheinlich nicht alle  notwendigen Packages installiert. Gehe zurück zu Schritt 2
 6. Öffne nun deinen Browser und tippe als Adresse _localhost:8008_
 
-Viel Spaß mit dem Tool!
+
+Hilfe für's Tool:
+
+Falls du ein Datenset löschen möchtest, halte _Strg+Alt_  gedrückt und klicke auf den zugehörigen Namen in der Legende.
+Willst du es nur verstecken, halte einfach _Strg_ und klicke auf den dazugehörigen Namen.
+
