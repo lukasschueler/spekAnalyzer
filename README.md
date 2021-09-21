@@ -11,6 +11,7 @@ Willkommen! Hier einmal eine kurze Anleitung wie das Programm gestartet wird:
 
 Hilfe für's Tool:
 
+Wenn du ein Datenset plotten möchtest, lade es einfach über Drag&Drop auf die Applikation.
 Falls du ein Datenset löschen möchtest, halte _Strg+Alt_  gedrückt und klicke auf den zugehörigen Namen in der Legende.
 Willst du es nur verstecken, halte einfach _Strg_ und klicke auf den dazugehörigen Namen.
 
